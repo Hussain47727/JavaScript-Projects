@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    /* width: 80vw; */
+    /* height: 100vh; */
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    padding-bottom: 20px;
+    color: rgb(39, 9, 9);
+    font-size: 50px;
+}
+input{
+    padding: 15px;
+    font-size: 20px;
+}
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+}
