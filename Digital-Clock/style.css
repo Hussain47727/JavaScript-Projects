@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' , sans-serif;
+}
+body, .time{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    height: 80vh;
+    background-color: rgba(12, 12, 183, 0.6);
+}
+.digital-clock{
+    width: 25vw;
+    background-color: brown;
+    padding: 20px 45px;
+    box-shadow: 0 5px 25px rgba(14, 21, 37, .8);
+    border-radius: 10px;
+}
+
+#hours{
+    font-size: 4rem;
+    padding: 0px 10px;
+    font-weight: 600;
+    background:linear-gradient(90deg, blue, black);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+#dots{
+    font-size: 2rem;
+    color: white;
+}
+#minutes{
+    font-size: 2.5rem;
+    font-weight: 600;
+    background:linear-gradient(90deg,purple, green);
+    transform: translateY(10px);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.right-down{
+    margin-left: 20px;
+    font-size: 1.5rem;
+}
+#period{
+    color: orange;
+    font-size: 20px;
+    font-weight: 600;
+}
+#seconds{
+    color: orange;
+    font-size: 20px;
+    font-weight: 600;
+}
