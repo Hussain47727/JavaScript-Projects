@@ -19,4 +19,22 @@ btn.addEventListener('click', () => {
     inputArea.value = newPassword;  
 
 });
+btn.addEventListener('click', () => {
+    let passwordLength = 12;
+    newPassword = generatePassword(passwordLength);
+    inputArea.value = newPassword;  
+
+});
+btn.addEventListener('click', () => {
+    let passwordLength = 12;
+    newPassword = generatePassword(passwordLength);
+    inputArea.value = newPassword;  
+
+});
+btn.addEventListener('click', () => {
+    let passwordLength = 12;
+    newPassword = generatePassword(passwordLength);
+    inputArea.value = newPassword;  
+
+});
 // console.log(newPassword);
