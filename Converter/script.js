@@ -11,6 +11,13 @@ convertbtn.addEventListener('click', () => {
      inch.value = i;
     }
 });
+convertbtn.addEventListener('click', () => {
+    if(feet.value !== ""){
+    let f = feet.value;
+    let i = f * 12;
+     inch.value = i;
+    }
+});
 
 btnfet.addEventListener('click', () => {
     if(inch.value !== ""){
