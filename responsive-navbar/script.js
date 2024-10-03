@@ -23,8 +23,3 @@ cross.addEventListener('click', ()=>{
     button.style.display = 'block'
     cross.style.display = 'none'
 })
-cross.addEventListener('click', ()=>{
-    list.style.display = 'none'
-    button.style.display = 'block'
-    cross.style.display = 'none'
-})
