@@ -1,1 +1,1 @@
-aScript Projec
+Script Projec
