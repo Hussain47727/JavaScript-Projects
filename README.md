@@ -1,1 +1,1 @@
-javasc
+java
