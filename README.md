@@ -1,1 +1,1 @@
-javascrip
+javascri
