@@ -1,1 +1,1 @@
-javascri
+javasc
