@@ -1,2 +1,2 @@
-javaScript
+cript
 
