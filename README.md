@@ -1,3 +1,3 @@
-this is react codin
+this is react coding
 
 
